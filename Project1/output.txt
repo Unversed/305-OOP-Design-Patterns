@@ -1,0 +1,37 @@
+Passenger0, insufficient funds, 
+not taken from start location (120, 10) to end location (2, 4)
+The fare was 237.23
+Their balance was 0.0
+
+Passenger1, sufficient funds,
+was taken from start location (210, 24) to end location (20, 137)
+For a fare of 472.12
+Their new balance is 627.88
+Their driver's new balance is 1277.69
+Their rating is 4.49
+Their driver's new rating is 4.50
+
+Passenger2, sufficient funds,
+was taken from start location (25, 137) to end location (45, 73)
+For a fare of 215.15
+Their new balance is 984.85
+Their driver's new balance is 732.12
+Their rating is 1.83
+Their driver's new rating is 4.09
+
+Passenger3, sufficient funds,
+was taken from start location (299, 299) to end location (14, 13)
+For a fare of 794.44
+Their new balance is 505.56
+Their driver's new balance is 735.55
+Their rating is 1.21
+Their driver's new rating is 3.68
+
+Passenger4, sufficient funds,
+was taken from start location (0, 0) to end location (120, 143)
+For a fare of 301.23
+Their new balance is 1098.77
+Their driver's new balance is 1240.99
+Their rating is 1.04
+Their driver's new rating is 4.81
+
